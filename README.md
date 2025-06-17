@@ -2,7 +2,7 @@
 
 > **Note**
 >
-> Previous version of this repo (cross-chain NFT minting) has been moved to the [cross-chain-nft-minter-example branch](https://github.com/AlexScherbayuk/ccip-cross-chain-nft/tree/cross-chain-nft-minter-example).
+> Previous version of this repo (cross-chain NFT minting) has been moved to the [cross-chain-nft-minter-example branch](https://github.com/AlexScherbatyuk/ccip-cross-chain-nft/tree/cross-chain-nft-minter-example).
 
 A cross-chain NFT is a smart contract that can exist on any blockchain, abstracting away the need for users to understand which blockchain they’re using.
 
